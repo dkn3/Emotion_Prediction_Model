@@ -1,9 +1,4 @@
-CMPT 419 Final Project
-Predicting Emotional OutBERSt
-
-Danny Nguyen: dkn3@sfu.ca, 301449063
-David Xiong: dxa14@sfu.ca, 301305081
-Tegnoor Gill: tegnoorg@sfu.ca, 301344408
+Predicting Emotional with OutBERSt shout data 
 
 Code Structure and Navigation:
 All code used google drive mounting for paths. To run the code locally, upload the audio files and csv files, and change the path to local paths.
