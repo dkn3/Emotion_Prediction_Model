@@ -1,4 +1,4 @@
-Predicting Emotional with OutBERSt shout data 
+Predicting Emotional with OutBERSt shout data (data download from here) : https://drive.google.com/drive/folders/1mVmVCVlaLFFeE6Jry9hVGWawF1kGaDoN
 
 Code Structure and Navigation:
 All code used google drive mounting for paths. To run the code locally, upload the audio files and csv files, and change the path to local paths.
